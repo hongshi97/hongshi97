@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SeongHee Hong. I'm an undergraduate majoring in Industrial & Management Engineering(산업경영공학과) at Kyunghee University.
-- 👀 I’m interested in Data Analysis, NLP, ML&DNN, Marketing, Sneakers
+- 👀 I’m interested in NLP, ML&DNN, Data Analysis,  Sneakers
 - 🌱 Step by Step
 
 
