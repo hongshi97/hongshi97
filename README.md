@@ -1,5 +1,4 @@
-- 👋 Hi, I’m SeongHee Hong. 
-- 👀 I’m interested in NLP, ML&DNN, Data Analysis,  Sneakers
+- 👀 I’m interested in NLP, DL and Sneakers
 - 🌱 Step by Step
 
 
