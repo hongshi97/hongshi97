@@ -1,5 +1,4 @@
 - 👀 I’m interested in NLP, DL and Sneakers
-- 🌱 Step by Step
 
 
 <!---
